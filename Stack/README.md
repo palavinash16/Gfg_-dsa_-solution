@@ -38,4 +38,36 @@ A Stack is a linear data structure that follows the **LIFO (Last In First Out)**
 Push: 10 → 20 → 30  
 Stack Top → 30  
 
-Pop → removes 30  
+Pop → removes 30
+
+🛠️ Topics Covered
+Stack Basics
+Implementation using Array
+Implementation using Linked List
+Reverse a Stack (upcoming)
+Next Greater Element (upcoming)
+📂 Problems
+Problem	Difficulty	Status
+Implement Stack	Easy	🔄
+Valid Parentheses	Easy	🔄
+Reverse Stack	Medium	⏳
+Next Greater Element	Medium	⏳
+🧱 Stack Implementation (C++)
+#include <stack>
+using namespace std;
+
+int main() {
+    stack<int> st;
+    st.push(10);
+    st.push(20);
+    st.pop();
+    return 0;
+}
+🎯 Goals
+Master stack operations
+Solve expression-based problems
+Improve problem-solving speed
+📎 Notes
+Stack follows LIFO
+Very important for interviews
+Often used with recursion
