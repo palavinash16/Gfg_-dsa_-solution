@@ -43,10 +43,7 @@ Next Greater Element (upcoming)
 📂 Problems
 
 Problem	Difficulty	Status
-Implement Stack	Easy	🔄
-Valid Parentheses	Easy	🔄
-Reverse Stack	Medium	⏳
-Next Greater Element	Medium	⏳
+Implement Stack	Easy	🔄Valid Parentheses	Easy	🔄Reverse Stack	Medium	⏳Next Greater Element	Medium	⏳
 
 
 🧱 Stack Implementation (C++)
