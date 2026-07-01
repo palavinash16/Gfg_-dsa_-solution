@@ -1,10 +1,10 @@
-# DSA LeetCode Solutions
+# DSA Solutions
 
 Automatically organized DSA solutions captured by DSA Tracker.
 
 ## Stats
-- Total problems tracked: 3
-- Successfully pushed: 2
+- Total problems tracked: 1
+- Successfully pushed: 0
 - Pending or failed push: 1
 
 ## Folder Structure
@@ -21,6 +21,4 @@ DSA/
 ## Problems
 | Problem | Platform | Category | Difficulty | Language | Status |
 | --- | --- | --- | --- | --- | --- |
-| [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode | Arrays | Easy | cpp | pushed |
-| [0](https://leetcode.com/problems/number-of-common-factors/) | LeetCode | Uncategorized | Unknown | python | pushed |
-| [Second Largest](https://www.geeksforgeeks.org/problems/second-largest3735/) | GFG | Uncategorized | Unknown | python | pending |
+| [Easy to Understand soln in c++, using map](https://www.geeksforgeeks.org/problems/majority-element-1587115620/) | GFG | General | Easy | python | pending |
