@@ -1,65 +1,26 @@
+# DSA LeetCode Solutions
 
-# 💻 DSA Solutions in C++ / python | GeeksforGeeks
+Automatically organized DSA solutions captured by DSA Tracker.
 
-🚀 This repository contains my structured journey of learning Data Structures & Algorithms using C++ / python from GeeksforGeeks.
+## Stats
+- Total problems tracked: 3
+- Successfully pushed: 2
+- Pending or failed push: 1
 
----
+## Folder Structure
+```text
+DSA/
+  Category/
+    Difficulty/
+      Problem_Name/
+        solution.<language>
+        README.md
+        problem.md
+```
 
-## 👨‍💻 About Me
-- 🎓 B.Tech IT Student  
-- 💡 Passionate about Problem Solving  
-- 🎯 Preparing for Coding Interviews  
-
----
-
-## 📚 Learning Source
-- GeeksforGeeks DSA Course
-
----
-
-## 🛠️ Tech Stack
-- Language: C++ , python
-- Platform: GeeksforGeeks
-
----
-
-## 📂 Topics Covered
-
-| Topic        | Status |
-|-------------|--------|
-| Arrays       | ✅ Completed |
-| Strings      | ✅ Completed |
-| Linked List  | 🔄 Ongoing |
-| Recursion    | 🔄 Ongoing |
-| Trees        | ⏳ Upcoming |
-| Graphs       | ⏳ Upcoming |
-| DP           | ⏳ Upcoming |
-
----
-
-## 📈 Progress Tracker
-👉 [View Detailed Progress](./progress-tracker.md)
-
----
-
-## 🔥 Key Features
-- ✅ Clean & readable C++ and python  code  
-- ✅ Optimized solutions  
-- ✅ Topic-wise organization  
-- ✅ Beginner → Advanced coverage  
-
----
-
-## 🎯 Goals
-- Crack coding interviews  
-- Master DSA concepts  
-- Build strong problem-solving skills  
-
----
-
-## 📬 Connect With Me
-- LinkedIn: (Add link)
-
----
-
-⭐ Star this repo if you find it useful!
+## Problems
+| Problem | Platform | Category | Difficulty | Language | Status |
+| --- | --- | --- | --- | --- | --- |
+| [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode | Arrays | Easy | cpp | pushed |
+| [0](https://leetcode.com/problems/number-of-common-factors/) | LeetCode | Uncategorized | Unknown | python | pushed |
+| [Second Largest](https://www.geeksforgeeks.org/problems/second-largest3735/) | GFG | Uncategorized | Unknown | python | pending |
